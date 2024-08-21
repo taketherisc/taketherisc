@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @taketherisc
-- 🦀 Rust Developer
+- # 👋 Hi, I’m @taketherisc
+- # 🦀 Rust Developer
 
 <!---
 taketherisc/taketherisc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
